@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-Cors
+SQLAlchemy
+PyMySQL
+pandas2
