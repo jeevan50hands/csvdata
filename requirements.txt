@@ -5,3 +5,4 @@ Flask-Cors
 SQLAlchemy
 PyMySQL
 Pandas3
+gunicorn
